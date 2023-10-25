@@ -51,6 +51,9 @@ footer{
     width: 50px;
 }
 li{
+    font-size: 2rem;
+}
+.titulo{
     font-size: 3rem;
 }
 a{
@@ -58,4 +61,14 @@ a{
 }
 h2{
     font-size: 3rem;
+}
+p{
+    font-size: 2rem;
+}
+.foto1{
+    text-align: center;
+    width: 500px;
+}
+.encabezados{
+    margin-left: 1%;
 }
